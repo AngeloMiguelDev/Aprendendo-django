@@ -1,1 +1,1 @@
-# Aprendendo-PY-e-django
+# Aprendendo-django
